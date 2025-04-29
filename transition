@@ -1,0 +1,88 @@
+# The Intelligent Support Ecosystem for Every Parent
+
+**Otilia AI** is a virtual assistance platform powered by artificial intelligence, supporting mothers and fathers from preconception through the first 1000 days of their child's life.  
+Our mission is to make quality, human-centered parental support accessible to everyone, integrating companies, insurers, and governments into a single, scalable SaaS ecosystem.
+
+---
+
+## Context
+
+Parental health today remains fragmented, outdated, and disconnected from real needs.  
+While families seek trustworthy guidance, new actors — employers, insurers, and public policies — are also looking for scalable solutions.  
+The consequences are critical:  
+- 830 preventable maternal deaths and 7,000 preventable neonatal deaths occur every day.  
+- 1 in 5 mothers suffers from postpartum anxiety.  
+- 43% of women leave their jobs after giving birth.  
+- Access to information remains unequal, and emotional support is often missing.
+
+There is an urgent need for integrated, preventive, and personalized parental care.
+
+---
+
+## Our Solution
+
+Otilia AI offers:
+- **24/7 Expert Assistance:** An AI-powered virtual assistant providing immediate support and reliable information.
+- **Connection to Certified Specialists:** Pediatricians, psychologists, obstetricians, and more.
+- **Emotional Risk Detection:** Intelligent screening through our OTI module.
+- **Personalized Psychoeducational Programs:** Empowering emotional wellbeing and resilience.
+- **Immersive Wellbeing Experiences:** Holistic emotional care through biomusic and guided practices.
+
+We enable preventive action, emotional containment, and better health outcomes — through a humanized, accessible, and scalable digital platform.
+
+---
+
+## Current Status
+
+- **MVP validated** through pilots and early adopter feedback.
+- **LLC incorporated** in the United States (Wyoming).
+- **Partnerships signed** with insurers and municipal governments.
+- **Fundraising round open:** Seeking **USD 500,000** to accelerate go-to-market execution.
+
+---
+
+## Market Opportunity
+
+- **$130B** maternal and child health global market.
+- **$12B** corporate benefits and wellbeing market.
+
+We address a critical gap where health, emotional wellbeing, and social protection meet.
+
+---
+
+## Achievements
+
+- Winner of **Impulso X Santander** (innovation and entrepreneurship prize).
+- Selected by **AI Forge London** accelerator.
+- Finalist at **NAVES USA** program (University of Miami Business School).
+
+---
+
+## Our Story
+
+Otilia AI was founded by a woman entrepreneur, psychologist, and former teenage mother who transformed her personal journey into a mission to reshape parental support.  
+Together with a diverse, experienced, and deeply committed team, we are building a new global standard for family wellbeing — one that is preventive, humanized, and inclusive.
+
+---
+
+## Technology Stack
+
+- **Frontend:** Flutter (cross-platform web and mobile app)
+- **Backend:** Node.js with Express.js (API and server-side logic)
+- **Database:** MongoDB (AWS DocumentDB)
+- **Infrastructure:** AWS (S3, CloudFront, Elastic Beanstalk, EC2, Cognito, WAF, IAM)
+- **Security:** End-to-end encryption, OAuth 2.0 authentication, JWT tokens
+
+Designed for scalability, security, and interoperability with corporate and government systems.
+
+---
+
+## Contact
+
+For more information, partnerships, or investment opportunities, please contact:
+
+**Leticia Navarro Brusa**  
+Founder & CEO  
+
+- [Website](https://www.otiliaai.com)  
+- [Email](mailto hola@otiliaai.com)
